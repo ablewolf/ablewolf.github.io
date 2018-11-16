@@ -3,7 +3,8 @@ layout: post
 title: "卷积神经网络之AlexNet"
 date: 2018-08-25
 description: "卷积神经网络、AlexNet"
-tag: 深度学习
+category: 深度学习
+tags:AlexNet
 ---
 
 
